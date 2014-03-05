@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/pjf/exobrain-idonethis.png?branch=master)](https://travis-ci.org/pjf/exobrain-twitter)
+[![Build Status](https://travis-ci.org/pjf/exobrain-idonethis.png?branch=master)](https://travis-ci.org/pjf/exobrain-idonethis)
 
 [![Support via Gittip](https://rawgithub.com/twolfson/gittip-badge/0.1.0/dist/gittip.png)](https://www.gittip.com/pjf/)
 
