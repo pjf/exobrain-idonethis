@@ -1,5 +1,6 @@
 package Exobrain::Idonethis;
 use Moose;
+use Exobrain::Config;
 use feature qw(say);
 
 # ABSTRACT: Idonethis components for Exobrain
