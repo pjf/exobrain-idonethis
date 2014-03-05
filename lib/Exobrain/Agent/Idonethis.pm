@@ -1,7 +1,7 @@
 package Exobrain::Agent::Idonethis;
 use Moose::Role;
 use Method::Signatures;
-use WebService::Idonethis;
+use WebService::Idonethis 0.22;
 use POSIX qw(strftime);
 
 with 'Exobrain::Agent';
