@@ -4,7 +4,7 @@
 
 # SUMMARY
 
-This provides the Beeminder component for Exobrain. You
+This provides the iDoneThis component for Exobrain. You
 should read up on the [Exobrain Framework](https://github.com/pjf/exobrain)
 if you're not already familiar with it.
 
